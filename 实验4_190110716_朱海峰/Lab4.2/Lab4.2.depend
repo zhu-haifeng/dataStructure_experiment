@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588936863 source:c:\users\carl\desktop\assignment\ds_labwork\lab4.2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

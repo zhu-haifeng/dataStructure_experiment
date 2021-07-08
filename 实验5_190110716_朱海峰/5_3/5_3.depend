@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590171258 source:c:\users\carl\desktop\assignment\ds_labwork\5_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+
+1590241189 source:c:\users\carl\desktop\assignment\ds_labwork\lab5\5_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+

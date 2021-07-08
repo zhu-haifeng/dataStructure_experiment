@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1587719255 source:c:\users\carl\documents\c\for_debugger\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1587740664 source:c:\users\carl\desktop\assignment\ds_labwork\课上实验3_190110716_朱海峰\for_debugger\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1587741857 source:c:\users\carl\desktop\assignment\ds_labwork\实验3_190110716_朱海峰\for_debugger\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

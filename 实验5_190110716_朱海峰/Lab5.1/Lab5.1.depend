@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590171356 source:c:\users\carl\desktop\assignment\ds_labwork\lab5.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<memory.h>
+
